@@ -23,9 +23,15 @@
 }
 .name
 {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     color:black;
-    font-size: small;
+    font-size: 42px;    
+
+}
+.name:hover
+{
+   text-shadow: 5px 5px blue;
+   border: 5px;
 
 }
 .direction:hover
